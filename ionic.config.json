@@ -1,0 +1,7 @@
+{
+  "name": "fireAuth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
